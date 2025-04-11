@@ -43,7 +43,7 @@ class _FrasesScreenState extends State<FrasesScreen>
   bool _isListening = false;
 
   // 👈 Substitua pela sua chave de API
-  final String _apiKey = 'AIzaSyCmN8_lHzJImwJ8upwhPBnybIFnViAHpsc';
+  final String _apiKey = '';
 
   @override
   void initState() {
