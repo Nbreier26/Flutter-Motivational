@@ -1,17 +1,27 @@
-# motivational
+# 🧠 ChatIA Motivacional & Desmotivacional
 
-A new Flutter project.
+Um aplicativo Flutter de chat com inteligência artificial que entende sua voz e responde com mensagens **motivacionais** ou **desmotivacionais**, usando a poderosa API do **Google Gemini**.
 
-## Getting Started
+Ideal para quem quer um empurrãozinho emocional — ou só um empurrão do penhasco com bom humor.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎤 **Reconhecimento de voz** (speech-to-text) para enviar mensagens com a fala
+- 💬 IA integrada com **Google Gemini API**
+- 💡 Mensagens motivacionais para levantar seu dia
+- 😒 Mensagens desmotivacionais com humor ácido e sarcástico
+- 🌓 Suporte a tema claro e escuro
+- 📜 Histórico de conversas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Motivational
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text)
+- [Google Gemini API](https://ai.google.dev/)
+- Material Design
+---
