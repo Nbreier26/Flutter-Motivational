@@ -12,9 +12,6 @@ Ideal para quem quer um empurrãozinho emocional — ou só um empurrão do penh
 - 💬 IA integrada com **Google Gemini API**
 - 💡 Mensagens motivacionais para levantar seu dia
 - 😒 Mensagens desmotivacionais com humor ácido e sarcástico
-- 🌓 Suporte a tema claro e escuro
-- 📜 Histórico de conversas
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
